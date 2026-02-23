@@ -1,16 +1,30 @@
-## Hi there 👋
+                                @@@@@@   @@@@@@
+                             @@@@@@@@@@@@@@@@@@@
+                             @@@@@@@@@@@@@@@@@@@
+                              @@@@@@@@@@@@@@@@@
+                               @@@@@@@@@@@@@@@
+                                 @@@@@@@@@@@
+                                   @@@@@@@
+                                     @@@
+                                      @
 
-<!--
-**elilands/elilands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+elian@github
+-------------------------------------------------------------------------
+Role:          Web Developer & AI Integrator
+Focus:         Secure, User-Centric Platforms & Autonomous Agents
 
-Here are some ideas to get you started:
+Languages:     JavaScript, TypeScript, Node.js, PHP, C++, MariaDB, HTML, CSS
+Frameworks:    React, Next.js, Tailwind CSS
+Learning:      Python, Vue.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:      Manualmente (SME Training Platform - Mexico)
+               Productivity Web App (Task & Time Management)
+               Custom Subliminal Audio Assets (Freelance)
+
+Interests:     Artificial Intelligence, Cost Accounting, Cybersecurity
+Hobbies:       Video Games, Cooking, Audio Creation
+
+Contact:       
+  Portfolio:   elian.is-a.dev
+  LinkedIn:    [linkedin.com/in/elianisadev](https://linkedin.com/in/elianisadev)
+-------------------------------------------------------------------------
